@@ -1,6 +1,5 @@
 # SQL-Inverse-Multiplexer
 The project is proposed by a company called iCognition.
-
 The objective of this project is to improve the functionality of an existing software (Content Manager, devleoped by MicroFocus), to allow the collation of results from multiple database instances and return them through a single query within the software.
 
 ## Members
