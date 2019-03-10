@@ -29,6 +29,9 @@ To address this issue, multiple potential solutions have been made:
 
 It is important to note that the possibilities of these solutions are not definite.
 
+## Project Impact
+Rather than rely on the applications to implement this functionality, we are improving the software which can intercept calls to the database from the application and distribute those calls to several databases, collate the results and returns those results to the application. The software would be transparent to the application and would not require any changes to the application’s existing SQL.
+
 ## Resources
 *   Content Manager SDK: <https://github.com/content-manager-sdk/Community>
 *   TDS Bridge: <https://github.com/MindFlavor/TDSBridge>
