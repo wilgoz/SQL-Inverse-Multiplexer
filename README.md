@@ -18,6 +18,11 @@ The objective of this project is to improve the functionality of an existing sof
 *   The Australian National University: a national research university located in Canberra, the capital of Australia.
 *   iCognition: a techniqual company helping clients to maximise the value of their information assets, while minimising cost and risk.
 
+## Client's Vision
+*   Goal 1: SQL Inverse Multiplexer for MS SQL (Tabular Data Format)
+*   Goal 2: Support for stored procedures.
+*   Goal 3: SQL Inverse Multiplexer for Postgres. There are some projects which facilitate most of the required features, however stop short at “transparency”, requiring the applications to generate specific SQL to query across databases.
+
 ## Solutions
 We are required to develop software that intercepts calls from the Content Manager application and distribute those calls to all related databases.
 
