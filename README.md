@@ -67,3 +67,10 @@ Rather than rely on the applications to implement this functionality, we are imp
 ## Resources
 *   Content Manager SDK: <https://github.com/content-manager-sdk/Community>
 *   TDS Bridge: <https://github.com/MindFlavor/TDSBridge>
+
+## Techonology
+* Team Communication: Slack
+* Project Management: Trello
+* Source Control: Github
+* Documentation Management: Google Drive
+* Key Product Components: SQL Servers with Content Manger
