@@ -16,8 +16,30 @@ The objective of this project is to improve the functionality of an existing sof
 
 ## Tools 
 **Project repository**: GitHub repository "SQL Inverse Multiplexer", https://github.com/varensio/SQL-Inverse-Multiplexer
+
 **Task management**: Trello board "SQL Inverse Multiplexer": https://trello.com/b/aoQqv9bK/sql-inverse-multiplexer 
-**Team communication**: Slack channel "SQL Inverse Multiplexer",  sqlinversemultiplexer.slack.com   
+
+**Team communication**: Slack channel "SQL Inverse Multiplexer",  https://sqlinversemultiplexer.slack.com   
+
+## Project Timeline
+
+**Kick Off: Planning stage, Weeks 1 - 2**
+Team member formation. Project delegations, setup and planning.
+
+**Sprint 1: Research stage, Weeks 3 - 5** 
+Improvements and research on Software development kit for Content manager and virtual machine
+*   Audit 1 in week 3
+*   first user testing in week 4
+
+**Sprint 2: Development Stage, Week 6-teaching break 2**
+further improvements and research on Software development kit for Content manager and virtual machine
+*   Audit 2 in week 6
+*   second user testing in first teaching break
+
+**Sprint 3: Testing stage, Week 7-10**
+*   finishing up remaining goals
+*   Audit 3 in week 7
+*   third user testing in week 9
 
 ## Key Stakeholders
 *   The Australian National University: a national research university located in Canberra, the capital of Australia.
