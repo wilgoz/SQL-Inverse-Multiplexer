@@ -14,6 +14,11 @@ The objective of this project is to improve the functionality of an existing sof
 | Melissa Turner  | u6350995@anu.edu.au         | Tester                                |
 | Daniel Turner   | u5562347@anu.edu.au         | Tester                                |
 
+## Tools 
+**Project repository**: GitHub repository "SQL Inverse Multiplexer", https://github.com/varensio/SQL-Inverse-Multiplexer
+**Task management**: Trello board "SQL Inverse Multiplexer": https://trello.com/b/aoQqv9bK/sql-inverse-multiplexer 
+**Team communication**: Slack channel "SQL Inverse Multiplexer",  sqlinversemultiplexer.slack.com   
+
 ## Key Stakeholders
 *   The Australian National University: a national research university located in Canberra, the capital of Australia.
 *   iCognition: a techniqual company helping clients to maximise the value of their information assets, while minimising cost and risk.
