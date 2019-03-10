@@ -14,6 +14,10 @@ The objective of this project is to improve the functionality of an existing sof
 | Melissa Turner  | u6350995@anu.edu.au         | Tester                                |
 | Daniel Turner   | u5562347@anu.edu.au         | Tester                                |
 
+## Key Stakeholders
+*   The Australian National University: a national research university located in Canberra, the capital of Australia.
+*   iCognition: a techniqual company helping clients to maximise the value of their information assets, while minimising cost and risk.
+
 ## Solutions
 We are required to develop software that intercepts calls from the Content Manager application and distribute those calls to all related databases.
 
