@@ -64,7 +64,9 @@ It is important to note that the possibilities of these solutions are not defini
 ## Project Impact
 Rather than rely on the applications to implement this functionality, we are improving the software which can intercept calls to the database from the application and distribute those calls to several databases, collate the results and returns those results to the application. The software would be transparent to the application and would not require any changes to the application’s existing SQL.
 
-## IP Constrains
+## NDA and IP Constrains
+We are currently seeking advice on non-disclosure agreement with ANUSA. 
+
 Any database, materials, tools, software, methods provided or advised by iCognitive and agreed to be iCognitive Copyright, will remain the intellectual property of iCognitive as part of this project.
 
 ## Resources
