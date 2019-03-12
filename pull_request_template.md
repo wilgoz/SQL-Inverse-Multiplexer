@@ -1,13 +1,11 @@
-Summary of the story:
+**Summary of the story**
 
-*
 
-Link to related Trello story:
+**Link to related Trello story**
 
-*
 
-CheckList:
+**CheckList**
 
-* Has Relevant Story On Trello
-* Tested Locally (it should break the program!)
-* Set Someone as Review
+- [ ] Has Relevant Story On Trello
+- [ ] Tested Locally (it should break the program!)
+- [ ] Set Someone as Code Reviewer
