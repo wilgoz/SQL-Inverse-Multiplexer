@@ -14,19 +14,19 @@ The objective of this project is to improve the functionality of an existing sof
 | Melissa Turner  | u6350995@anu.edu.au         | Tester                                |
 | Daniel Turner   | u5562347@anu.edu.au         | Tester                                |
 
-## Tools 
-**Project repository**: GitHub repository "SQL Inverse Multiplexer", https://github.com/varensio/SQL-Inverse-Multiplexer
+## Tools
+**Project repository**: GitHub repository https://github.com/varensio/SQL-Inverse-Multiplexer
 
-**Task management**: Trello board "SQL Inverse Multiplexer": https://trello.com/b/aoQqv9bK/sql-inverse-multiplexer 
+**Task management**: Trello board https://trello.com/b/aoQqv9bK/sql-inverse-multiplexer
 
-**Team communication**: Slack channel "SQL Inverse Multiplexer",  https://sqlinversemultiplexer.slack.com   
+**Team communication**: Slack channel https://sqlinversemultiplexer.slack.com
 
 ## Project Timeline
 
 **Kick Off: Planning stage, Weeks 1 - 2**
 Team member formation. Project delegations, setup and planning.
 
-**Sprint 1: Research stage, Weeks 3 - 5** 
+**Sprint 1: Research stage, Weeks 3 - 5**
 Improvements and research on Software development kit for Content manager and virtual machine
 *   Audit 1 in week 3
 *   first user testing in week 4
@@ -38,7 +38,7 @@ further improvements and research on Software development kit for Content manage
 
 **Sprint 3: Testing stage, Week 7-10**
 *   finishing up remaining goals
-*   Audit 3 in week 7
+*   Audit 3 in week 10
 *   third user testing in week 9
 
 ## Key Stakeholders
@@ -72,3 +72,10 @@ Any database, materials, tools, software, methods provided or advised by iCognit
 ## Resources
 *   Content Manager SDK: <https://github.com/content-manager-sdk/Community>
 *   TDS Bridge: <https://github.com/MindFlavor/TDSBridge>
+
+## Techonology
+* Team Communication: Slack
+* Project Management: Trello
+* Source Control: Github
+* Documentation Management: Google Drive
+* Key Product Components: SQL Servers with Content Manger
