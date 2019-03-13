@@ -1,5 +1,6 @@
 # SQL-Inverse-Multiplexer
-The project is proposed by iCognition, a company based in Braddon.
+## Project Background
+The project is proposed by iCognition, a company based in Braddon. Many companies have to search through many databases individually and this method is unnecessarily time consuming. 
 
 The objective of this project is to improve the functionality of an existing software (Content Manager, developed by MicroFocus), to allow the collation of results from multiple database instances, and return them through a single query within the CM software.
 
@@ -48,7 +49,7 @@ Further improvements and research on Software development kit for Content manage
 
 ## Key Stakeholders
 *   The Australian National University: a national research university located in Canberra, the capital of Australia.
-*   iCognition: a techniqual company helping clients to maximise the value of their information assets, while minimising cost and risk.
+*   iCognition: A company that helps clients to maximise the value of their information assets, while minimising cost and risk.
 
 ## Client's Vision
 *   Goal 1: SQL Inverse Multiplexer for MS SQL (Tabular Data Format)
