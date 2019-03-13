@@ -75,10 +75,9 @@ collate the results and returns those results to the application. The software w
 the application and would not require any changes to the application’s existing SQL.
 
 ## NDA and IP Constraints
-Any database, materials, tools, software, methods provided by iCognitive and agreed to be iCognitive Copyright,
-will remain as the intellectual property of iCognitive as part of this project.
+Through a verbal agreement, the client and the team agreed that any database, materials, tools, software, methods provided by iCognitive and agreed to be iCognitive Copyright. It will remain as the intellectual property of iCognitive as part of this project.
 
-No further non-disclosure agreement is required.
+We are waiting to get legal feedback for our written NDA and IP Agreements before we sign. 
 
 ## Resources
 *   Content Manager SDK: <https://github.com/content-manager-sdk/Community>
