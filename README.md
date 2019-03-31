@@ -1,6 +1,6 @@
 # SQL-Inverse-Multiplexer
 ## Project Background
-The project is proposed by iCognition, a company based in Braddon. Many companies have to search through many databases individually and this method is unnecessarily time consuming. 
+The project is proposed by iCognition, a company based in Braddon. Many companies have to search through many databases individually and this method is unnecessarily time consuming.
 
 The objective of this project is to improve the functionality of an existing software (Content Manager, developed by MicroFocus), to allow the collation of results from multiple database instances, and return them through a single query within the CM software.
 
@@ -61,9 +61,8 @@ We are required to develop software that intercepts calls from the Content Manag
 
 To address this issue, multiple potential solutions have been made:
 *   Developing a MiddleWare that interacts with both the CM and database server
-*   Designing an intermediate database that holds other related databases
-*   DLL Injection
-*   SQL Proxy
+*   ~~Designing an intermediate database that holds other related databases~~
+*   ~~DLL Injection~~
 
 It is important to note that the developers and the client are aware that
 the possibilities of these solutions are not definite.
