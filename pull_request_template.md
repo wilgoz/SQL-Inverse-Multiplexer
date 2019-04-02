@@ -1,8 +1,8 @@
 **Summary of the story**
-
+-
 
 **Link to related Trello story**
-
+-
 
 **CheckList**
 
