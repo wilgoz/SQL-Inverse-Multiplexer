@@ -7,5 +7,5 @@
 **CheckList**
 
 - [ ] Has Relevant Story On Trello
-- [ ] Tested Locally (it should break the program!)
+- [ ] Tested Locally (it should not break the program!)
 - [ ] Set Someone as Code Reviewer
